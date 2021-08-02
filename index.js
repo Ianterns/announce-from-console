@@ -1,4 +1,4 @@
-const { MessageEmbed } = require('discord.js'_
+const { MessageEmbed } = require('discord.js')
 
 let y = process.openStdin();
 y.addListener("data", (res) => {
